@@ -1,0 +1,52 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  margin:100px;
+}
+.page-header{
+  text-align:center;
+}
+.logo{
+  border-radius:50%;
+  width:150px;
+    
+}
+h1{
+text-transform: uppercase;
+  font-size:3em;
+}
+.site-subtitle{
+  font-size: 2em;
+  color:lightblack;
+}
+.quote{
+  background-image: url("https://unsplash.it/1000/1000?image=354");
+  background-repeat: no-repeat;
+   
+  background-attachment: fixed;
+ height:300px;
+  max-height:300px;
+  text-align:center;
+  margin: 0 auto; 
+  background-size:cover;
+}
+#contact{
+  background-color:#212121;
+  color:white;
+  text-align:center
+}
+.page-footer{
+  text-align:center;
+}
+.wrapper
+{
+  padding-top: 60px;
+  color: white;
+  font-size: 40px;
+}
+.strong1, .strong2
+{
+  display: block;
+}
+.fa fa-facebook-official{
+  width:100px;
+}
